@@ -8,5 +8,8 @@
 <body>
 	<h1> Hello world </h1>
     <p> Shine dream smile, let us light up the night </p>
+    <ul>
+    <li> satu </li>
+    </ul>
 </body>
 </html>
